@@ -1,4 +1,3 @@
-Age,Sex,Chest_pain,Resting_Blood_Pressure,Serum_Cholestrol,Fasting_Blood_Sugar,Resting_ECG,Max_heart_rate_achieved,Exercise_induced_angina,ST_depression,Peak_exercise,Number_of_major_vessels,Thal,Diagnosis_of_heart_disease
 67,1,4,160,286,0,2,108,1,1.5,2,3,3,1
 63,1,1,145,133,1,1,150,0,1.3,3,0,6,0
 67,1,4,110,229,0,2,129,1,2.6,2,2,7,1
